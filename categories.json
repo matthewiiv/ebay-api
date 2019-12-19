@@ -1,0 +1,297 @@
+{
+  "GetCategoriesResponse": {
+    "-xmlns": "urn:ebay:apis:eBLBaseComponents",
+    "Timestamp": "2019-12-18T12:43:11.478Z",
+    "Ack": "Success",
+    "Version": "1119",
+    "Build": "E1119_INTL_APICATALOG_19077684_R1",
+    "CategoryArray": {
+      "Category": [
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "20081",
+          "CategoryLevel": "1",
+          "CategoryName": "Antiques",
+          "CategoryParentID": "20081"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "550",
+          "CategoryLevel": "1",
+          "CategoryName": "Art",
+          "CategoryParentID": "550"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "2984",
+          "CategoryLevel": "1",
+          "CategoryName": "Baby",
+          "CategoryParentID": "2984"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "267",
+          "CategoryLevel": "1",
+          "CategoryName": "Books, Comics & Magazines",
+          "CategoryParentID": "267"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "12576",
+          "CategoryLevel": "1",
+          "CategoryName": "Business, Office & Industrial",
+          "CategoryParentID": "12576"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "625",
+          "CategoryLevel": "1",
+          "CategoryName": "Cameras & Photography",
+          "CategoryParentID": "625"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "9800",
+          "CategoryLevel": "1",
+          "CategoryName": "Cars, Motorcycles & Vehicles",
+          "CategoryParentID": "9800"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "11450",
+          "CategoryLevel": "1",
+          "CategoryName": "Clothes, Shoes & Accessories",
+          "CategoryParentID": "11450"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "11116",
+          "CategoryLevel": "1",
+          "CategoryName": "Coins",
+          "CategoryParentID": "11116"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "1",
+          "CategoryLevel": "1",
+          "CategoryName": "Collectables",
+          "CategoryParentID": "1"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "58058",
+          "CategoryLevel": "1",
+          "CategoryName": "Computers/Tablets & Networking",
+          "CategoryParentID": "58058"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "14339",
+          "CategoryLevel": "1",
+          "CategoryName": "Crafts",
+          "CategoryParentID": "14339"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "237",
+          "CategoryLevel": "1",
+          "CategoryName": "Dolls & Bears",
+          "CategoryParentID": "237"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "11232",
+          "CategoryLevel": "1",
+          "CategoryName": "DVDs, Films & TV",
+          "CategoryParentID": "11232"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "1305",
+          "CategoryLevel": "1",
+          "CategoryName": "Events Tickets",
+          "CategoryParentID": "1305"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "159912",
+          "CategoryLevel": "1",
+          "CategoryName": "Garden & Patio",
+          "CategoryParentID": "159912"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "26395",
+          "CategoryLevel": "1",
+          "CategoryName": "Health & Beauty",
+          "CategoryParentID": "26395"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "3252",
+          "CategoryLevel": "1",
+          "CategoryName": "Holidays & Travel",
+          "CategoryParentID": "3252"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "11700",
+          "CategoryLevel": "1",
+          "CategoryName": "Home, Furniture & DIY",
+          "CategoryParentID": "11700"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "281",
+          "CategoryLevel": "1",
+          "CategoryName": "Jewellery & Watches",
+          "CategoryParentID": "281"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "15032",
+          "CategoryLevel": "1",
+          "CategoryName": "Mobile Phones & Communication",
+          "CategoryParentID": "15032"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "11233",
+          "CategoryLevel": "1",
+          "CategoryName": "Music",
+          "CategoryParentID": "11233"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "619",
+          "CategoryLevel": "1",
+          "CategoryName": "Musical Instruments",
+          "CategoryParentID": "619"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "1281",
+          "CategoryLevel": "1",
+          "CategoryName": "Pet Supplies",
+          "CategoryParentID": "1281"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "870",
+          "CategoryLevel": "1",
+          "CategoryName": "Pottery, Porcelain & Glass",
+          "CategoryParentID": "870"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "CategoryID": "10542",
+          "CategoryLevel": "1",
+          "CategoryName": "Property",
+          "CategoryParentID": "10542"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "293",
+          "CategoryLevel": "1",
+          "CategoryName": "Sound & Vision",
+          "CategoryParentID": "293"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "888",
+          "CategoryLevel": "1",
+          "CategoryName": "Sporting Goods",
+          "CategoryParentID": "888"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "64482",
+          "CategoryLevel": "1",
+          "CategoryName": "Sports Memorabilia",
+          "CategoryParentID": "64482"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "260",
+          "CategoryLevel": "1",
+          "CategoryName": "Stamps",
+          "CategoryParentID": "260"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "220",
+          "CategoryLevel": "1",
+          "CategoryName": "Toys & Games",
+          "CategoryParentID": "220"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "131090",
+          "CategoryLevel": "1",
+          "CategoryName": "Vehicle Parts & Accessories",
+          "CategoryParentID": "131090"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "1249",
+          "CategoryLevel": "1",
+          "CategoryName": "Video Games & Consoles",
+          "CategoryParentID": "1249"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "40005",
+          "CategoryLevel": "1",
+          "CategoryName": "Wholesale & Job Lots",
+          "CategoryParentID": "40005"
+        },
+        {
+          "BestOfferEnabled": "true",
+          "AutoPayEnabled": "true",
+          "CategoryID": "99",
+          "CategoryLevel": "1",
+          "CategoryName": "Everything Else",
+          "CategoryParentID": "99"
+        }
+      ]
+    },
+    "CategoryCount": "35",
+    "UpdateTime": "2019-09-20T01:14:50.000Z",
+    "CategoryVersion": "112",
+    "ReservePriceAllowed": "true",
+    "MinimumReservePrice": "50.0"
+  }
+}

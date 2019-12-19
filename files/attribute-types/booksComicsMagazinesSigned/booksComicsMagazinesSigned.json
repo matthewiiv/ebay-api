@@ -1,0 +1,1 @@
+{"id":"booksComicsMagazinesSigned","schema":{"title":"Signed","description":"Signed","category":"Identification","type":"string","autoCompleteValues":[{"type":"url","value":"https://mysuggestionservice.bulbthings.com/"},{"type":"array","value":["No","Yes","Not Specified"]}]},"timeSeriesOptions":{"interval":"P1M"}}

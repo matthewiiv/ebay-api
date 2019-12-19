@@ -1,0 +1,1 @@
+{"id":"artColour","schema":{"title":"Colour","description":"Colour","category":"Identification","type":"string","autoCompleteValues":[{"type":"url","value":"https://mysuggestionservice.bulbthings.com/"},{"type":"array","value":["Black","Blue","Brown","Clear","Green","Grey","Multi-Colour","Orange","Pink","Purple"]}]},"timeSeriesOptions":{"interval":"P1M"}}

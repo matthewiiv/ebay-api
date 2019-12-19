@@ -1,0 +1,28 @@
+{
+  "id": "babyBrand",
+  "schema": {
+    "title": "Brand",
+    "description": "Brand",
+    "category": "Identification",
+    "type": "string",
+    "autoCompleteValues": [
+      { "type": "url", "value": "https://mysuggestionservice.bulbthings.com/" },
+      {
+        "type": "array",
+        "value": [
+          "4moms",
+          "Airwrap",
+          "Allis",
+          "ALVI",
+          "Aptamil",
+          "Ardo",
+          "Arm's Reach",
+          "Axkid",
+          "Babasac",
+          "Babybeau"
+        ]
+      }
+    ]
+  },
+  "timeSeriesOptions": { "interval": "P1M" }
+}

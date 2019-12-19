@@ -1,0 +1,1 @@
+{"id":"babyColour","schema":{"title":"Colour","description":"Colour","category":"Identification","type":"string","autoCompleteValues":[{"type":"url","value":"https://mysuggestionservice.bulbthings.com/"},{"type":"array","value":["Beige","Black","Blue","Brown","Clear","Gold","Green","Grey","Ivory","Multi"]}]},"timeSeriesOptions":{"interval":"P1M"}}

@@ -1,0 +1,17 @@
+{
+  "id": "artFeatures",
+  "schema": {
+    "title": "Features",
+    "description": "Features",
+    "category": "Identification",
+    "type": "string",
+    "autoCompleteValues": [
+      { "type": "url", "value": "https://mysuggestionservice.bulbthings.com/" },
+      {
+        "type": "array",
+        "value": ["Framed", "Matted", "Personalized", "Signed"]
+      }
+    ]
+  },
+  "timeSeriesOptions": { "interval": "P1M" }
+}

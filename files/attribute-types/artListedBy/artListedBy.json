@@ -1,0 +1,1 @@
+{"id":"artListedBy","schema":{"title":"Listed By","description":"Listed By","category":"Identification","type":"string","autoCompleteValues":[{"type":"url","value":"https://mysuggestionservice.bulbthings.com/"},{"type":"array","value":["Artist","Dealer or Reseller","Not Specified"]}]},"timeSeriesOptions":{"interval":"P1M"}}
